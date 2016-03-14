@@ -7,8 +7,12 @@ TheHarvester
 
 Dmitry
 
-Metasploit 
+Metagoofil
 
-Recon-ng
+Goofile -Coming
+
+Metasploit -Coming
+
+Recon-ng -Coming
 
 Use at your own risk, I am not responsible for any illegal actions commited by using this script.
