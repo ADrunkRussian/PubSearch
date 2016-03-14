@@ -5,6 +5,8 @@ This script will help people who are not so savvy do OSINT using popular tools s
 
 TheHarvester
 
+Dmitry
+
 Metasploit 
 
 Recon-ng
