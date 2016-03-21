@@ -1,8 +1,9 @@
 # PubSearch
+
 Public Email &amp; Identity Search 
 
 This script will help people who are not so savvy do OSINT using popular tools such as:
-
+This is in development
 TheHarvester
 
 Dmitry
